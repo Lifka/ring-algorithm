@@ -27,3 +27,9 @@ La simulación gráfica está limitada a 6 servidores, por una razón muy sencil
 
 ## Instrucciones para ejecutar el programa:	
    1- Script para simulación automática: ./buildandrun	
+   
+   Nota: Ejecutar rmiregistry en el directorio "Simulador".
+   
+   
+## Captura:	
+![GitHub Logo](/images/screenshot1.png)
