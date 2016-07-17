@@ -17,8 +17,8 @@ Trabajo tema 3 UGR grado de Ingeniería Informática asignatura Diseño de Siste
 
 ## Sobre la simulación:	
 -Se ha implementado una simulación gráfica en JSwing.	    
--El programa simulador, al que se conectan los procesos por RMI, consta de:	
-          ** Un log	    
+-El programa simulador, al que se conectan los procesos por RMI, consta de:     	
+          -- Un log	    
           - Representación gráfica del algoritmo (únicamente reacciona al estado de los servidores y sus mensajes mediante un patrón Observable Observador).	      
           - Un botón para matar al coordinador y que vuelva a comenzar el algoritmo.        	
 -Inicialmente, los servidores están todos desconectados y ninguno de ellos es líder. Se comienza la búsqueda del líder cuando se conectan 6 servidores.	        
